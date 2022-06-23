@@ -1,11 +1,15 @@
-# ESP32 BLE Keyboard
+# ESP32 BLE Dactyl Manuform
 
-I tried strapping ergodox dactyl-manuform to my chair arm rests. Worked great if not for the cable. So now I'm abandoning QMK, Arduino Pro Micro and exploring wireless world!
-![IMG_20220623_213324490](https://user-images.githubusercontent.com/56068621/175382546-4b53f73c-7cf9-409f-9d90-ab06b41b0c33.jpg)
+I tried strapping ergodox dactyl-manuform to my chair's arm rests. Worked great if not for the cable. So now I'm abandoning QMK, Arduino Pro Micros and exploring wireless world!
+![Chair-Keyboard](https://user-images.githubusercontent.com/56068621/175384516-79fcfe59-0c00-4817-a801-3e328d7c2a8e.jpg)
+
 
 ## Gist of it
 
-I'm planning to start from an easy PoC, than there will be more or lesss a keyboard and than I will work on easy of setup.
+1. I'm planning to start from an easy PoC
+2. There will be more or lesss a keyboard
+3. I will work on ease of setup.
+4. TBD
 
 ### Hardware:
 * 2 x ESP32 (each will be it's own separate keyboard)
